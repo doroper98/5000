@@ -1,0 +1,2 @@
+Trigger Cloudflare Pages deployment after reconnecting GitHub integration.
+Live timestamp app files should now be deployed from main.
